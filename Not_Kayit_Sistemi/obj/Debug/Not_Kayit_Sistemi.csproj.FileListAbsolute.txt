@@ -1,0 +1,24 @@
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Not_Kayit_Sistemi\Not_Kayit_Sistemi\bin\Debug\Not_Kayit_Sistemi.exe.config
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Not_Kayit_Sistemi\Not_Kayit_Sistemi\bin\Debug\Not_Kayit_Sistemi.exe
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Not_Kayit_Sistemi\Not_Kayit_Sistemi\bin\Debug\Not_Kayit_Sistemi.pdb
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.csprojAssemblyReference.cache
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.Giris_Form.resources
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.Ogrenci_Detay_Form.resources
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.Ogretmen_Detay_Form.resources
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.Properties.Resources.resources
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.csproj.GenerateResource.cache
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.exe
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.pdb
+C:\Users\SeFiK\OneDrive\Masaüstü\eski c#\c# ve sql\Projeler\Form_Not_Kayit_Sistemi\Not_Kayit_Sistemi\bin\Debug\Not_Kayit_Sistemi.exe.config
+C:\Users\SeFiK\OneDrive\Masaüstü\eski c#\c# ve sql\Projeler\Form_Not_Kayit_Sistemi\Not_Kayit_Sistemi\bin\Debug\Not_Kayit_Sistemi.exe
+C:\Users\SeFiK\OneDrive\Masaüstü\eski c#\c# ve sql\Projeler\Form_Not_Kayit_Sistemi\Not_Kayit_Sistemi\bin\Debug\Not_Kayit_Sistemi.pdb
+C:\Users\SeFiK\OneDrive\Masaüstü\eski c#\c# ve sql\Projeler\Form_Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.csproj.AssemblyReference.cache
+C:\Users\SeFiK\OneDrive\Masaüstü\eski c#\c# ve sql\Projeler\Form_Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.Giris_Form.resources
+C:\Users\SeFiK\OneDrive\Masaüstü\eski c#\c# ve sql\Projeler\Form_Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.Ogrenci_Detay_Form.resources
+C:\Users\SeFiK\OneDrive\Masaüstü\eski c#\c# ve sql\Projeler\Form_Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.Ogretmen_Detay_Form.resources
+C:\Users\SeFiK\OneDrive\Masaüstü\eski c#\c# ve sql\Projeler\Form_Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.Properties.Resources.resources
+C:\Users\SeFiK\OneDrive\Masaüstü\eski c#\c# ve sql\Projeler\Form_Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.csproj.GenerateResource.cache
+C:\Users\SeFiK\OneDrive\Masaüstü\eski c#\c# ve sql\Projeler\Form_Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\SeFiK\OneDrive\Masaüstü\eski c#\c# ve sql\Projeler\Form_Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.exe
+C:\Users\SeFiK\OneDrive\Masaüstü\eski c#\c# ve sql\Projeler\Form_Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.pdb
